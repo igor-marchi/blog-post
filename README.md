@@ -16,6 +16,9 @@
 
 <p align="center">
   <img alt="App Demo" src="public//gitHub/react.gif" width="500">
+</p>
+<br/>
+<p align="center">
   <img alt="App Demo" src="public//gitHub/reactpost.gif" width="500">
 </p>
 
@@ -44,3 +47,5 @@ $ npm start
 ## :memo: License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/IgorMarchi/blog-post/blob/master/LICENSE) for more information.
+
+Made with ❤ [Igor Marchi](https://www.linkedin.com/in/igor-marchi/) :laughing:
