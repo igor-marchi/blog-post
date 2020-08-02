@@ -1,0 +1,59 @@
+div .register-h1 {
+  margin-top: 30px;
+  margin-bottom: 15px;
+
+  text-align: center;
+}
+
+form#register-form {
+  width: 100%;
+  max-width: 680px;
+
+  margin: 0 auto 0;
+  padding: 30px;
+
+  background-color: #fff;
+  border: 1px solid #ddd;
+
+  display: flex;
+  flex-direction: column;
+}
+
+form#register-form label {
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0.2px;
+}
+
+form#register-form input {
+  margin-bottom: 15px;
+  height: 40px;
+
+  border: 1px solid #ddd;
+  border-radius: 4px;
+
+  padding: 5px;
+
+  font-size: 14px;
+}
+
+form#register-form button {
+  padding: 10px 20px;
+
+  border: none;
+  border-radius: 4px;
+
+  font-weight: bold;
+  font-size: 16px;
+
+  background-color: #272727;
+  color: #fff;
+
+  cursor: pointer;
+
+  transition: 0.3s;
+}
+
+form#register-form button:hover {
+  opacity: 0.9;
+}
