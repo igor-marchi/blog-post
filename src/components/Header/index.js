@@ -8,7 +8,7 @@ function Header() {
     <header id='main-header'>
       <div className='header-content'>
         <Link className='logo' to='/'>
-          Bblog
+          BlogStage
         </Link>
         <Link to='/login'>Login</Link>
       </div>
